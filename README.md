@@ -15,7 +15,7 @@ A full-stack eCommerce web application built with the **MERN stack**: MongoDB, E
 ### 🛡️ Admin
 - Login with admin credentials
 - Add, update, delete products
-- Manage users/orders (extendable)
+- Manage users/orders 
 
 ---
 
@@ -110,7 +110,7 @@ Admin Login
 
 ⸻
 
-📬 API Endpoints (Expected)
+📬 API Endpoints 
 
 Method	Route	Purpose
 POST	/user/signup	Register a user
